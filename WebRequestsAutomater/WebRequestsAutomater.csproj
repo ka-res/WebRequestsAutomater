@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <ApplicationIcon>0_ka_res_ssmbl.ico</ApplicationIcon>
+    <Authors>ka_res</Authors>
+    <Version>1.0.0.0</Version>
+    <Copyright>Copyright © 2019</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SimpleInjector" Version="4.7.1" />
+  </ItemGroup>
+
+</Project>
